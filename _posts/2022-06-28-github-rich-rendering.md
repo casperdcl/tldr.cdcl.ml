@@ -1,7 +1,7 @@
 ---
 title: GitHub non-code rendering
 categories: [Programming]
-tags: [tools-web]
+tags: [tools-web, product-research]
 ---
 
 > Source: <https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files>. GitHub renders more than just code.
