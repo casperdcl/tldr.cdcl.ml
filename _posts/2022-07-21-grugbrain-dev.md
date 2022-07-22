@@ -24,10 +24,10 @@ Excellent content written in the worst possible way. The deliberately bad langua
 - don't be over-zealous about dev processes (agile isn't always perfect)
 - don't delete code you don't understand. Understand it, decide it's bad, then delete
 - master debugging tools
-- (⚠ random opinion) typing is mostly about helping autocompletion than helping guarantee correctness
-- (⚠ loaded opinion, worth its own TL;DR) [SoC](https://en.wikipedia.org/wiki/Separation_of_concerns) might miss the point, [LoB](https://htmx.org/essays/locality-of-behaviour) might be better
-- (⚠ loaded opinion) the [visitor pattern](https://en.wikipedia.org/wiki/Visitor_pattern) is bad
-- (⚠ loaded opinion) splitting dev into FrontEnd and BackEnd causes unnecessary duplication of efforts
+- (:warning: random opinion) typing is mostly about helping autocompletion than helping guarantee correctness
+- (:warning: loaded opinion, worth its own TL;DR) [SoC](https://en.wikipedia.org/wiki/Separation_of_concerns) might miss the point, [LoB](https://htmx.org/essays/locality-of-behaviour) might be better
+- (:warning: loaded opinion) the [visitor pattern](https://en.wikipedia.org/wiki/Visitor_pattern) is bad
+- (:warning: loaded opinion) splitting dev into FrontEnd and BackEnd causes unnecessary duplication of efforts
 - log a lot, especially for cloud apps
   + major logic branches (if/for)
   + request IDs (to trace across a network)

@@ -15,4 +15,4 @@ Basically, reduce time-to-understand by paraphrasing to:
    + :innocent: (inject my own opinions/comments, typically in nested parenthesised bullets)
 3. :page_facing_up: remove cruft/distractions (marketing, layout, fonts, ...)
    + :see_no_evil: (suppress my latent desire to add a relevant [xkcd](https://xkcd.com) comic)
-4. :white_tick::warning::stop_sign: draw attention to important things with emojis
+4. :heavy_check_mark::warning::stop_sign: draw attention to important things with emojis
