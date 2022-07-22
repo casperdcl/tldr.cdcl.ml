@@ -22,7 +22,7 @@ sitemap: true
 lang: en-GB
 yat:
   date_format: "%Y %b %d"
-theme_color: blue
+theme_color: coolblack
 header_pages:
 - index.md
 - archives.md
@@ -32,6 +32,6 @@ utterances:
   repo: casperdcl/tldr.cdcl.ml
 plugins:
 - jekyll-feed
+- jekyll-remote-theme
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-remote-theme
