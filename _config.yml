@@ -2,7 +2,11 @@ remote_theme: jeffreytse/jekyll-theme-yat
 title: TL;DR
 author: Casper da Costa-Luis
 copyright: '(c) <a href="https://cdcl.ml">{author}</a> {currentYear}'
-permalink: /:categories/:title
+permalink: pretty
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title
 defaults:
 - scope:
     path: "_posts/*"
