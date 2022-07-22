@@ -1,0 +1,33 @@
+remote_theme: jeffreytse/jekyll-theme-yat
+title: TL;DR
+author: Casper da Costa-Luis
+copyright: '(c) <a href="https://cdcl.ml">{author}</a> {currentYear}'
+permalink: /:categories/:title
+defaults:
+- scope:
+    path: "_posts/*"
+  values:
+    layout: post
+    author: Casper da Costa-Luis
+    subtitle: TL;DR
+baseurl: ""
+url: https://tldr.cdcl.ml
+google_analytics: G-MERR30FCLL
+enableDNT: "false"
+sitemap: true
+lang: en-GB
+yat:
+  date_format: "%Y %b %d"
+theme_color: blue
+header_pages:
+- index.md
+- archives.md
+- categories.md
+- tags.md
+utterances:
+  repo: casperdcl/tldr.cdcl.ml
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-remote-theme
