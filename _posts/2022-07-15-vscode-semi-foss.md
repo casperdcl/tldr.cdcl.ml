@@ -1,7 +1,7 @@
 ---
 title: VSCode is semi-FOSS
 categories: [Programming, Law]
-tags: [OSS, law, tools-gui]
+tags: [OSS, law, tools-gui, extra-short]
 ---
 
 > Source: <https://github.com/VSCodium/vscodium#why-does-this-exist>. Interesting release/licensing strategy.

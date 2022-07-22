@@ -6,7 +6,7 @@ permalink: pretty
 collections:
   posts:
     output: true
-    permalink: /:categories/:title
+    permalink: /:title
 defaults:
 - scope:
     path: "_posts/*"

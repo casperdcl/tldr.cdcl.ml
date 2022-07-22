@@ -1,7 +1,7 @@
 ---
 title: Sphinx versus Mkdocs
 categories: [Programming]
-tags: [tools-web, product-research]
+tags: [tools-web, product-research, extra-long]
 ---
 
 > Source: <https://github.com/iterative/py-template/issues/19#issuecomment-1140296357>.
