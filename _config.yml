@@ -1,4 +1,4 @@
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: casperdcl/jekyll-theme-yat
 title: TL;DR
 author: Casper da Costa-Luis
 copyright: '(c) <a href="https://cdcl.ml">{author}</a> {currentYear}'
