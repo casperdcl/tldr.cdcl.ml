@@ -1,7 +1,7 @@
 ---
 title: Best practice API design
 categories: [Programming]
-tags: [opinionated, principles]
+tags: [principles]
 ---
 
 > Source: <https://thenewstack.io/werner-vogels-6-rules-for-good-api-design>. From [AWS](https://aws.amazon.com) CTO.

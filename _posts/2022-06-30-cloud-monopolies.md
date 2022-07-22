@@ -1,7 +1,7 @@
 ---
 title: Clouds are outsourcing less
 categories: [Industry]
-tags: [monopoly, extra-short]
+tags: [cloud, monopoly, extra-short]
 ---
 
 > Source: <https://www.ft.com/content/e89e7071-0f1d-4bea-a857-a6fce236d776>.

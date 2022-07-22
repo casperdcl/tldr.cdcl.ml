@@ -1,7 +1,7 @@
 ---
 title: The Five Principles
 categories: [Management]
-tags: [opinionated, principles, extra-short]
+tags: [principles, extra-short]
 ---
 
 > Source: <https://www.economist.com/business/2022/06/30/mars-inc-gets-the-purpose-v-profit-balance-right>.
