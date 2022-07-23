@@ -24,7 +24,6 @@ yat:
   date_format: "%Y %b %d"
 theme_color: coolblack
 header_pages:
-- index.md
 - archives.md
 - categories.md
 - tags.md
