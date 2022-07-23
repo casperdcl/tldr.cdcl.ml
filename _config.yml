@@ -31,6 +31,9 @@ header_pages:
 paginate: 10
 utterances:
   repo: casperdcl/tldr.cdcl.ml
+  issue_term: "title"
+  theme: "github-light"
+  follow_site_theme: true
 plugins:
 - jekyll-feed
 - jekyll-paginate
