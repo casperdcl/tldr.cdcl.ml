@@ -3,6 +3,7 @@ favicon: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox
 title: Too Long; Didn't Read
 author: Casper da Costa-Luis
 copyright: '(c) <a href="https://cdcl.ml">{author}</a> {currentYear}'
+mailto_request: 'mailto:casper.dcl@physics.org?subject=tldr.cdcl.ml%20request'
 permalink: pretty
 collections:
   posts:
