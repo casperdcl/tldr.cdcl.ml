@@ -1,7 +1,7 @@
 ---
 title: Active Metadata
 src: https://atlan.com/active-metadata-management
-categories: [Programming]
+categories: [Programming, Industry]
 tags: [principles, abstract]
 ---
 
