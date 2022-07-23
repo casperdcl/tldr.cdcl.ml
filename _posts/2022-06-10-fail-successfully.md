@@ -1,10 +1,11 @@
 ---
 title: Making errors helpful
+src: https://future.com/negative-engineering-and-the-art-of-failing-successfully
 categories: [Programming]
 tags: [principles]
 ---
 
-> Source: <https://future.com/negative-engineering-and-the-art-of-failing-successfully>. Pay attention to error verbosity & handling; your future self will thank you for it.
+Pay attention to error verbosity & handling; your future self will thank you for it.
 
 - fail noisily and informatively
 - mission-critical killed process not reporting (error) logs? Hard to manage every failure edge case, especially from external sources? Solution: check for "absence of expected completion" rather than "wait for observable failure."

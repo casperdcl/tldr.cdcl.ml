@@ -20,14 +20,15 @@
 		"prefix": "post",
 		"body": [
 			"---",
-			"title: ??",
+			"title: ",
+			"src: "
 			"categories: [Programming]",
 			"tags: [opinionated, principles]",
 			"---",
 			"",
-			"> Source: <??>. More comments.",
+			"Summary.",
 			"",
-			"- foo"
+			"- "
 		],
 		"description": "post"
 	}

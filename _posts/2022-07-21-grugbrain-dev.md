@@ -1,10 +1,11 @@
 ---
 title: Best dev practices from experience
+src: https://grugbrain.dev
 categories: [Programming]
 tags: [opinionated, principles, extra-long]
 ---
 
-> Source: <https://grugbrain.dev>. Excellent content written in the worst possible way. The deliberately bad language is fun for a few sentences, but quickly becomes painfully obfuscating. Ironic for something that advocates reduced complexity.
+Excellent content written in the worst possible way. The deliberately bad language is fun for a few sentences, but quickly becomes painfully obfuscating. Ironic for something that advocates reduced complexity.
 
 - avoid complex implementations (because they are unmaintainable)
   + if unavoidable (due to business requirements), then try to be as minimal as possible - only make an [MVP] or even [just 80% of an MVP](https://en.wikipedia.org/wiki/Pareto_principle)

@@ -1,10 +1,11 @@
 ---
 title: How not to make a second successful startup
+src: https://niteo.co/blog/failed-saas-project
 categories: [Management]
 tags: [opinionated, principles]
 ---
 
-> Source: <https://niteo.co/blog/failed-saas-project>. Succeeded once; could not reproduce.
+Succeeded once; could not reproduce.
 
 - success & experience does not guarantee a second success
 - :stop_sign: "[existing solutions] were [...] not great, but just good enough [so] our USP was a nice to have and not a killer feature." Research showed people were interested in **looking** for solutions, but it just wasn’t worth **solving** for enough potential customers

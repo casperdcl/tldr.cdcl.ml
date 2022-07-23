@@ -1,10 +1,11 @@
 ---
 title: Email breach via expiring domain takeover
+src: https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html
 categories: [Programming]
 tags: [tools-web, security]
 ---
 
-> Source: <https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html>. Don't let your domains expire, or don't use them for email.
+Don't let your domains expire, or don't use them for email.
 
 - someone took over an expiring domain to get a dev's emails
 - no 2FA so could use email to reset passwords & upload to [PyPI](https://pypi.org)

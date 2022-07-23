@@ -1,10 +1,11 @@
 ---
 title: GitHub non-code rendering
+src: https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files
 categories: [Programming]
 tags: [tools-web, product-research]
 ---
 
-> Source: <https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files>. GitHub renders more than just code.
+GitHub renders more than just code.
 
 The following are supported:
 

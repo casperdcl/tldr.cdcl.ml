@@ -1,10 +1,9 @@
 ---
 title: Sphinx versus Mkdocs
+src: https://github.com/iterative/py-template/issues/19#issuecomment-1140296357
 categories: [Programming]
 tags: [tools-web, product-research, extra-long]
 ---
-
-> Source: <https://github.com/iterative/py-template/issues/19#issuecomment-1140296357>.
 
 - both `sphinx` & `mkdocs` are mature with nearly identical feature matrices, and we're not considering any other options. However, primary intended use is different:
   + `sphinx` is `rst`-first & config via a `py` file

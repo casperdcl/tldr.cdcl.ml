@@ -1,10 +1,11 @@
 ---
 title: Active Metadata
+src: https://atlan.com/active-metadata-management
 categories: [Programming]
 tags: [principles, abstract]
 ---
 
-> Source: <https://atlan.com/active-metadata-management>. The article is bit abstract & unclear, but the lists seem to contain some info.
+The article is bit abstract & unclear, but the lists seem to contain some info.
 
 - What is "active" metadata?
 > 1. Improved context of [metadata powering data discovery](https://atlan.com/platform/data-catalog)

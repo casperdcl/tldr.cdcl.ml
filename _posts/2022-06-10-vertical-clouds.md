@@ -1,10 +1,11 @@
 ---
 title: Clouds are becoming more specialised
+src: https://a16z.com/2022/06/09/the-cloud-killed-infrastructure-long-live-infrastructure
 categories: [Industry]
 tags: [cloud]
 ---
 
-> Source: <https://a16z.com/2022/06/09/the-cloud-killed-infrastructure-long-live-infrastructure>. Both generalist competition and specialised products are increasing.
+Both generalist competition and specialised products are increasing.
 
 - entire companies can be built around task-specific cloud tech
   + apps are increasingly loosely coupled i.e. work on any cloud

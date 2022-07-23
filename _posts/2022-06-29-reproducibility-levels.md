@@ -1,10 +1,11 @@
 ---
 title: '8 Levels of Reproducibility'
+src: https://www.anaconda.com/blog/8-levels-of-reproducibility
 categories: [Programming]
 tags: [opinionated, principles, security]
 ---
 
-> Source: <https://www.anaconda.com/blog/8-levels-of-reproducibility>. I'm happy being at "level 5 reproducibility" for most [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects. What concerns me more is [APIs are forever]({% post_url 2022-06-23-apis-are-forever %}).
+I'm happy being at "level 5 reproducibility" for most [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects. What concerns me more is [APIs are forever]({% post_url 2022-06-23-apis-are-forever %}).
 
 - -1: not reproducible
 - 0: reproducible only by you, today

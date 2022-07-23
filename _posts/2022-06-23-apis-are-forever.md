@@ -1,10 +1,11 @@
 ---
 title: Best practice API design
+src: https://thenewstack.io/werner-vogels-6-rules-for-good-api-design
 categories: [Programming]
 tags: [principles]
 ---
 
-> Source: <https://thenewstack.io/werner-vogels-6-rules-for-good-api-design>. From [AWS](https://aws.amazon.com) CTO.
+From [AWS](https://aws.amazon.com) CTO.
 
 - **APIs are Forever**: never delete or change an API, otherwise you will break the businesses that build on top of it
 - **Never Break Backward Compatibility**: Modifications/improvements are fine but shouldn't break legacy calls the API

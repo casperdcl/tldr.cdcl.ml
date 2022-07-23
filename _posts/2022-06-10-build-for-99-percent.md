@@ -1,10 +1,11 @@
 ---
 title: 'Build for "real" developers'
+src: https://future.com/software-development-building-for-99-developers
 categories: [Programming]
 tags: [principles]
 ---
 
-> Source: <https://future.com/software-development-building-for-99-developers>. Putting the majority (but not all) of future maintainers & consumers first.
+Putting the majority (but not all) of future maintainers & consumers first.
 
 - build for "real" devs (99%: insurance, healthcare, retail, banking) rather than influencer-hyped-up edge cases (1%: big-tech unicorns)
 - large-scale solutions don't work for medium-sized problems
