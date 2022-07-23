@@ -25,6 +25,6 @@ The article is bit abstract & unclear, but the lists seem to contain some info.
 - components:
 > 1. **metadata lake**: unified (raw & processed) storage repo built on open APIs
 > 2. **Programmable bots**: users can create custom DS/ML algorithms
-> 3. **collaboration plugins**: integrations unified by a common metadata layer, seamlessly integrates data tools with each data team’s daily workflow.
+> 3. **collaboration plugins**: integrations unified by a common metadata layer, seamlessly integrates data tools with each data team's daily workflow.
 > 4. **Data process automation**: easy way to build/deploy/manage workflow automation bots, emulating human decision-making
 > 5. **Reverse metadata**: make relevant metadata available to the end-user "rather than in a standalone catalog"
