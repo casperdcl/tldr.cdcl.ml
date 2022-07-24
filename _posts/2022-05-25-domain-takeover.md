@@ -1,6 +1,7 @@
 ---
 title: Email breach via expiring domain takeover
 src: https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html
+src_suffix: '?utm_source=tldr.cdcl.ml'
 categories: [Programming]
 tags: [tools-web, security]
 ---

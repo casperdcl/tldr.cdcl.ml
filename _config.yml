@@ -16,6 +16,7 @@ defaults:
     layout: post
     author: Casper da Costa-Luis
     subtitle: TL;DR
+    src_suffix: '/?utm_source=tldr.cdcl.ml'
 baseurl: ""
 url: https://tldr.cdcl.ml
 google_analytics: G-MERR30FCLL
