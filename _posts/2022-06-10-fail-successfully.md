@@ -1,7 +1,7 @@
 ---
 title: Making errors helpful
 src: https://future.com/negative-engineering-and-the-art-of-failing-successfully
-categories: [Programming]
+categories: [Programming, Communication]
 tags: [principles]
 ---
 

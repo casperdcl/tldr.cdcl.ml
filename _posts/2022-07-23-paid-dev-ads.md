@@ -1,7 +1,7 @@
 ---
 title: Marketing to developers
 src: https://www.developermarkepear.com/blog/paid-advertising-developer-marketing
-categories: [Programming, Management, Industry]
+categories: [Programming, Management, Industry, Communication]
 tags: [opinionated, principles, product-research, tools-web, extra-long]
 ---
 

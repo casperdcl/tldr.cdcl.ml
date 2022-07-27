@@ -1,7 +1,7 @@
 ---
 title: Best practice API design
 src: https://thenewstack.io/werner-vogels-6-rules-for-good-api-design
-categories: [Programming]
+categories: [Programming, Communication]
 tags: [principles]
 ---
 

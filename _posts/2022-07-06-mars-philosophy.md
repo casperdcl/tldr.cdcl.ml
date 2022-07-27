@@ -1,8 +1,8 @@
 ---
 title: The Five Principles
 src: https://www.economist.com/business/2022/06/30/mars-inc-gets-the-purpose-v-profit-balance-right
-categories: [Management]
-tags: [principles, extra-short]
+categories: [Management, Philosophy]
+tags: [abstract, principles, extra-short]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Best practice communication & documentation
 src: https://stackoverflow.blog/2022/04/25/empathy-for-the-dev-avoiding-common-pitfalls-when-communicating-with-developers
-categories: [Programming, Management]
+categories: [Programming, Management, Communication]
 tags: [principles]
 ---
 
