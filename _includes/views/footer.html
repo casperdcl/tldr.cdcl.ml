@@ -1,5 +1,5 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper">
     <div class="site-footer-inner">
@@ -11,8 +11,16 @@
             | replace: '(p)', '℗'
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
-      <div>{{ copyright }}</div>
-      <div class="footer-col rss-subscribe"><i class="fa fa-rss"></i> Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a> | <i class="fa fa-plus"></i> <a href="{{ site.mailto_request }}">Request</a> an article</div>
+      <div>{{ copyright }}
+        {%- assign page_url = page.url -%}
+        {%- assign page_url_prefix = page_url | slice: 0 -%}
+        {%- assign page_url_size = page_url | size -%}
+        {%- if page_url_size > 1 and page_url_prefix != "/" -%}
+          {%- assign page_url = page_url | prepend: "/" -%}
+        {%- endif -%}
+        <img alt="" src="https://caspersci.uk.to/cgi-bin/hits.cgi?q=tldr.cdcl.ml{{ page_url }}&a=hidden" style="float:right;border:0;width:1px;height:1px" />
+      </div>
+      <div class="footer-col rss-subscribe"><i class="fa fa-rss"></i> Subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a> | <i class="fa fa-plus"></i> <a href="{{ site.mailto_request }}">Request</a> an article</div>
     </div>
   </div>
 </footer>
