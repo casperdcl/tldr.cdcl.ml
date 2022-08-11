@@ -6,4 +6,4 @@ tags: [cloud, monopoly, extra-short]
 ---
 
 
-- [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), and [GCP](https://cloud.google.com) are moving towards running their own data centres rather than outsourcing
+- {% glossary AWS %}, {% glossary Azure %}, and {% glossary GCP %} are moving towards running their own data centres rather than outsourcing

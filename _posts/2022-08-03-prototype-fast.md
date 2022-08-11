@@ -14,7 +14,7 @@ Product management focused on *rapid prototyping* (somewhere between *thinking a
    + avoid conjecture-based debates by quickly prototyping real things to test
 2. :sweat: minimise processes/overheads
    + it's hard to paint a masterpiece if you also have to create & present a slideshow, pitch to stakeholders, write a formal spec, etc.
-   + programmers/graphics designers: focus on effect on "human behaviour" (i.e. user experience, [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)) rather than code/pixels
+   + programmers/graphics designers: focus on effect on "human behaviour" (i.e. user experience, {% glossary MVP %}) rather than code/pixels
    + product managers: focus on managing uncertainty
 3. :hourglass: minimise iteration time
    + need a cycle: prototype -> release -> :warning: feedback/learning from stakeholders/customers -> prototype ...

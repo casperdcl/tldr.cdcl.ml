@@ -1,0 +1,78 @@
+- term: '2FA'
+  definition: Two-factor authentication
+  url: https://en.wikipedia.org/wiki/Multi-factor_authentication
+- term: AI
+  definition: artificial intelligence
+  url: https://en.wikipedia.org/wiki/Artificial_intelligence
+- term: API
+  definition: application programming interface
+  url: https://en.wikipedia.org/wiki/API
+- term: AWS
+  definition: Amazon Web Services
+  url: https://aws.amazon.com
+- term: Azure
+  definition: Microsoft Azure
+  url: https://azure.microsoft.com
+- term: BE
+  definition: back-end
+  url: https://en.wikipedia.org/wiki/Back_end_(computing)
+- term: CDN
+  definition: content delivery/distribution network
+  url: https://en.wikipedia.org/wiki/Content_delivery_network
+- term: CI
+  definition: continuous integration
+  url: https://en.wikipedia.org/wiki/Continuous_integration
+- term: DevOps
+  definition: (software) development + (IT) operations
+  url: https://en.wikipedia.org/wiki/DevOps
+- term: DRY
+  definition: don't repeat yourself
+  url: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+- term: DS
+  definition: data science
+  url: https://en.wikipedia.org/wiki/Data_science
+- term: e2e
+  definition: end-to-end
+  url: https://en.wikipedia.org/wiki/End-to-end
+- term: FE
+  definition: front-end
+  url: https://en.wikipedia.org/wiki/Front-end_web_development
+- term: FOSS
+  definition: free & open-source software
+  url: https://en.wikipedia.org/wiki/Free_and_open-source_software
+- term: GCP
+  definition: Google Cloud Platform
+  url: https://cloud.google.com
+- term: KISS
+  definition: keep it simple, stupid
+  url: https://en.wikipedia.org/wiki/KISS_principle
+- term: ML
+  definition: machine learning
+  url: https://en.wikipedia.org/wiki/Machine_learning
+- term: MVP
+  definition: minimum viable product
+  url: https://en.wikipedia.org/wiki/Minimum_viable_product
+- term: OS
+  definition: operating system
+  url: https://en.wikipedia.org/wiki/Operating_system
+- term: OSS
+  definition: open-source software
+  url: https://en.wikipedia.org/wiki/Open-source_software
+- term: PR
+  definition: pull request
+  url: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- term: PyPI
+  definition: The Python Package Index
+  url: https://pypi.org
+- term: RFC
+  definition: request for comment
+  url: https://en.wikipedia.org/wiki/Request_for_Comments
+- term: TL;DR
+  definition: too long; didn't read
+  url: https://en.wikipedia.org/wiki/TL;DR
+- term: USP
+  definition: unique selling proposition/point
+  url: https://en.wikipedia.org/wiki/Unique_selling_proposition
+- term: VM
+  definition: Virtual machine
+  url: https://en.wikipedia.org/wiki/Virtual_machine

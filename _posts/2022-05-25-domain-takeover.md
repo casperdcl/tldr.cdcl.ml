@@ -9,7 +9,7 @@ tags: [tools-web, security]
 Don't let your domains expire, or don't use them for email.
 
 - someone took over an expiring domain to get a dev's emails
-- no 2FA so could use email to reset passwords & upload to [PyPI](https://pypi.org)
+- no {% glossary 2FA %} so could use email to reset passwords & upload to {% glossary PyPI %}
 - original dev appears inactive
 
 why it's not too bad (in this particular case):

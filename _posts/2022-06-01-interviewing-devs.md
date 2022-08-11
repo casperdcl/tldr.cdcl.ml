@@ -9,6 +9,6 @@ Pretty sure [this]({% post_url 2022-04-24-unbiased-hiring %}) is a more complete
 
 - no 15-hour task, no 5-min chat. Something in-between.
 - assuming you have some closed source code, maybe give them a function signature to re-implement the body
-- ~1 week "audition" contract (solve-this-real-issue/PR)
-  + my take: this is great however IMO not scalable and doesn't allow you to compare candidates via identical tasks... it may only work if there's nobody else to compare to. Work-around: have closed source code at a frozen timepoint to ask them to open PRs on
+- ~1 week "audition" contract (solve-this-real-issue/{% glossary PR %})
+  + my take: this is great however IMO not scalable and doesn't allow you to compare candidates via identical tasks... it may only work if there's nobody else to compare to. Work-around: have closed source code at a frozen timepoint to ask them to open {% glossary PR, display: PRs %} on
 - don't standardise things irrelevant to what you're measuring

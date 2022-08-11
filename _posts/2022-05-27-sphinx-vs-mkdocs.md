@@ -11,7 +11,7 @@ tags: [tools-web, product-research, extra-long]
   + `mkdocs` is `md`-first & config via a `yml` file
 - IMO because `md` is more widely adopted outside the Python world and is less `html`-code-like (i.e. ironically more Pythonically zen), it's more actively developed.
   + I switched projects I maintain from `sphinx` to `mkdocs` due to nicer themes, extensions & less boilerplate code
-  + Also note PyPI [Topic :: Documentation :: Sphinx](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Documentation+%3A%3A+Sphinx) has 465 entries, while [Topic :: Documentation](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Documentation) has 2051 (implying circa 3x more non-sphinx Python docs projects).
+  + Also note {% glossary PyPI %} [Topic :: Documentation :: Sphinx](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Documentation+%3A%3A+Sphinx) has 465 entries, while [Topic :: Documentation](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Documentation) has 2051 (implying circa 3x more non-sphinx Python docs projects).
 
 Compare:
 

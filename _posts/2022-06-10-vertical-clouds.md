@@ -11,8 +11,8 @@ Both generalist competition and specialised products are increasing.
   + apps are increasingly loosely coupled i.e. work on any cloud
   + the market is large enough for specialism
 - the underlying generalist clouds are too generic to deliver good time-to-value and value-for-money
-- companies are shifting from fear of AWS/GCP/Azure competing to actively competing with them
+- companies are shifting from fear of {% glossary AWS %}/{% glossary GCP %}/{% glossary Azure %} competing to actively competing with them
 - examples:
-  + letting front-end devs build cloud tech (e.g. [JAMstack](https://jamstack.org)), increasingly enabled by CDNs (e.g. [Fly.io](https://fly.io), [CloudFlare](https://www.cloudflare.com))
-  + AI/ML-specific hardware (e.g [MosaicML](https://www.mosaicml.com))
+  + letting front-end devs build cloud tech (e.g. [JAMstack](https://jamstack.org)), increasingly enabled by {% glossary CDN, display: CDNs %} (e.g. [Fly.io](https://fly.io), [CloudFlare](https://www.cloudflare.com))
+  + {% glossary AI %}/{% glossary ML %}-specific hardware (e.g [MosaicML](https://www.mosaicml.com))
   + high-level full stack apps (e.g. Mighty chrome-fork [remote desktop](https://mightyviewer.com))

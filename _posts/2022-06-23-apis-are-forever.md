@@ -5,9 +5,9 @@ categories: [Programming, Communication]
 tags: [principles]
 ---
 
-From [AWS](https://aws.amazon.com) CTO.
+From {% glossary AWS %} CTO.
 
-- **APIs are Forever**: never delete or change an API, otherwise you will break the businesses that build on top of it
+- **APIs are Forever**: never delete or change an {% glossary API %}, otherwise you will break the businesses that build on top of it
 - **Never Break Backward Compatibility**: Modifications/improvements are fine but shouldn't break legacy calls the API
 - **Work Backwards from Customer Use Cases**: DO NOT design API starting with what the engineers think is good. Instead, work backwards from user's use cases and make a minimal viable API. Simplicity is a feature - it makes it easy to build on top of (both library code & user code)
 - **Self-Describing & Clear, Specific Purpose**: thorough up-to-date docs are NOT enough. APIs themselves should also be intuitive at first glance

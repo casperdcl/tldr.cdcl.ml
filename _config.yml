@@ -38,8 +38,12 @@ utterances:
   follow_site_theme: true
 plugins:
 - jekyll-feed
+- jekyll-glossary_tooltip
 - jekyll-paginate
 - jekyll-remote-theme
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+exclude:
+- Gemfile
+- Gemfile.lock

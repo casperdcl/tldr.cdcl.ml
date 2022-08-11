@@ -35,7 +35,7 @@ How to [target developers](#targeting-developers) (where traditional advertising
    * :warning: **context**: will a platform's users be in the right mood for your ads?
    * go **deep/specific**, e.g. target:
      - tech stack
-     - role ([FE], [BE], [DevOps], [ML], [DS])
+     - role ({% glossary FE %}, {% glossary BE %}, {% glossary DevOps %}, {% glossary ML %}, {% glossary DS %})
      - company (enterprise, startup, freelancer)
      - level (junior, senior, architect)
    * use analytics/tracking/cookies ([for now](https://blog.hubspot.com/marketing/third-party-cookie-phase-out)) to filter out non-relevant targets
@@ -72,7 +72,7 @@ How to [target developers](#targeting-developers) (where traditional advertising
   + :heavy_check_mark: GDPR-compliant (no tracking -- targeting is done by page)
   + filtering by page costs more
 - [Carbon Ads (BuySellAds)](https://www.carbonads.net)
-  + :heavy_check_mark: [focus on devs](https://content.buysellads.com/advertisers/five-reasons-your-ads-arent-reaching-developers) (like Ethical Ads) -- mostly [ML] and [DS]
+  + :heavy_check_mark: [focus on devs](https://content.buysellads.com/advertisers/five-reasons-your-ads-arent-reaching-developers) (like Ethical Ads) -- mostly {% glossary ML %} and {% glossary DS %}
   + :stop_sign: more intrusive (like GDN)
 - [Twitter Ads](https://ads.twitter.com)
   + :heavy_check_mark: appear in-feed
@@ -94,16 +94,10 @@ How to [target developers](#targeting-developers) (where traditional advertising
   + top of [SERP](https://backlinko.com/hub/seo/serps) (intrusive default) or page bottom (feels more helpful)
   + think about **relevancy**:
     * :heavy_check_mark: brand name ("github")
-    * core features/use cases ("CI") -- :stop_sign: don't work well if linking to blogs
+    * core features/use cases ("{% glossary CI %}") -- :stop_sign: don't work well if linking to blogs
     * comon typos of both off teh abov ("gitub")
     * competitor comparison ("vs github", "github alternative")
     * :stop_sign: integrations ("slack")
     * :stop_sign: competitor ("gitlab")
 
 :scroll::speech_balloon: Extended discussion at [ycombinator#32191615](https://news.ycombinator.com/item?id=32191615).
-
-[FE]: https://en.wikipedia.org/wiki/Front-end_web_development
-[BE]: https://en.wikipedia.org/wiki/Back_end_(computing)
-[DevOps]: https://en.wikipedia.org/wiki/DevOps
-[ML]: https://en.wikipedia.org/wiki/Machine_learning
-[DS]: https://en.wikipedia.org/wiki/Data_science
