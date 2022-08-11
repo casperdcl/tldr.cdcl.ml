@@ -2,7 +2,7 @@
 title: Research versus Reality
 src: https://towardsdatascience.com/exploring-machine-learning-solutions-for-credit-scoring-farmers-in-kenya-8fb653db4b08
 categories: [Programming, Management]
-tags: [AI, principles, product-research, tools-web, extra-short]
+tags: [ai, principles, product-research, tools-web, extra-short]
 ---
 
 Side note given that I grew up in Kenya: the premise of the article is wrong.

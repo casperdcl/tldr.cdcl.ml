@@ -3,7 +3,7 @@ title: VSCode is semi-FOSS
 src: https://github.com/VSCodium/vscodium#why-does-this-exist
 src_suffix: ''
 categories: [Programming, Law]
-tags: [OSS, law, tools-gui, extra-short]
+tags: [oss, law, tools-gui, extra-short]
 ---
 
 Interesting release/licensing strategy.
