@@ -43,6 +43,9 @@
 - term: GCP
   definition: Google Cloud Platform
   url: https://cloud.google.com
+- term: I/O
+  definition: input/output
+  url: https://en.wikipedia.org/wiki/Input/output
 - term: KISS
   definition: keep it simple, stupid
   url: https://en.wikipedia.org/wiki/KISS_principle
