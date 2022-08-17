@@ -15,8 +15,11 @@
         {%- assign page_url = page.url -%}
         {%- assign page_url_prefix = page_url | slice: 0 -%}
         {%- assign page_url_size = page_url | size -%}
-        {%- if page_url_size > 1 and page_url_prefix != "/" -%}
+        {%- if page_url_size > 0 and page_url_prefix != "/" -%}
           {%- assign page_url = page_url | prepend: "/" -%}
+        {%- endif -%}
+        {%- if page_url == "/" -%}
+          {%- assign page_url = "" -%}
         {%- endif -%}
         <img alt="" src="https://caspersci.uk.to/cgi-bin/hits.cgi?q=tldr.cdcl.ml{{ page_url }}&a=hidden" style="float:right;border:0;width:1px;height:1px" />
       </div>
