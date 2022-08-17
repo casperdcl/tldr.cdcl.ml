@@ -22,6 +22,9 @@
 - term: CI
   definition: continuous integration
   url: https://en.wikipedia.org/wiki/Continuous_integration
+- term: CRUD
+  definition: create, read, update, and delete
+  url: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 - term: DevOps
   definition: (software) development + (IT) operations
   url: https://en.wikipedia.org/wiki/DevOps
