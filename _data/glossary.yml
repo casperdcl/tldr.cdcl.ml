@@ -1,6 +1,9 @@
 - term: '2FA'
-  definition: Two-factor authentication
+  definition: two-factor authentication
   url: https://en.wikipedia.org/wiki/Multi-factor_authentication
+- term: ADR
+  definition: architecture decision record
+  url: https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 - term: AI
   definition: artificial intelligence
   url: https://en.wikipedia.org/wiki/Artificial_intelligence
@@ -76,9 +79,18 @@
 - term: TL;DR
   definition: too long; didn't read
   url: https://en.wikipedia.org/wiki/TL;DR
+- term: UML
+  definition: unified modelling language
+  url: https://en.wikipedia.org/wiki/Unified_Modeling_Language
 - term: USP
   definition: unique selling proposition/point
   url: https://en.wikipedia.org/wiki/Unique_selling_proposition
+- term: UX
+  definition: user experience
+  url: https://en.wikipedia.org/wiki/User_experience
 - term: VM
-  definition: Virtual machine
+  definition: virtual machine
   url: https://en.wikipedia.org/wiki/Virtual_machine
+- term: XY problem
+  definition: attempted solution (Y) misses the original problem (X)
+  url: https://en.wikipedia.org/wiki/XY_problem
