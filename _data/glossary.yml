@@ -67,6 +67,9 @@
 - term: OSS
   definition: open-source software
   url: https://en.wikipedia.org/wiki/Open-source_software
+- term: PoC
+  definition: proof of concept
+  url: https://en.wikipedia.org/wiki/Proof_of_concept
 - term: PR
   definition: pull request
   url: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
