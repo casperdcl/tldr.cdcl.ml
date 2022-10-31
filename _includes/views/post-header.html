@@ -16,6 +16,9 @@
     {%- if page.src -%}
     <span class="post-source left-vsplit"><i class="fa fa-globe"></i> <a href="{{ page.src | escape }}{{ page.src_suffix }}">{{ page.src }}</a></span>
     {%- endif -%}
+    {%- if page.author != site.author -%}
+    <span class="left-vsplit"><i class="fa fa-edit"></i> {{ page.author }}</span>
+    {%- endif -%}
   </p>
 
   {%- if page.tags.size > 0 -%}
