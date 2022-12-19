@@ -2,7 +2,7 @@
 title: Five levels of remote work
 src: https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c
 categories: [Management, Industry, Communication]
-tags: [principles, tools-web]
+tags: [principles, tools-web, async-remote]
 ---
 
 Outcompeting office-based companies.

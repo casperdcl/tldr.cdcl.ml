@@ -2,7 +2,7 @@
 title: Best dev practices from experience
 src: https://grugbrain.dev
 categories: [Programming]
-tags: [opinionated, principles, extra-long]
+tags: [opinionated, principles, extra-long, agile]
 ---
 
 Excellent content written in the worst possible way. The deliberately bad language is fun for a few sentences, but quickly becomes painfully obfuscating. Ironic for something that advocates reduced complexity.

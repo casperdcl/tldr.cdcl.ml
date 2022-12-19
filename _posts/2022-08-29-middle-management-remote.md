@@ -2,7 +2,7 @@
 title: Middle Management for Remote Work
 src: https://www.theatlantic.com/newsletters/archive/2022/07/remote-work-wfh-debate-management/670482
 categories: [Management, Industry, Communication]
-tags: [principles, hiring]
+tags: [principles, hiring, async-remote]
 ---
 
 Middle management ideas to make remote work a moral necessity rather than a culture-killer.

@@ -3,7 +3,7 @@ title: Maximise asynchronicity for remote productivity
 src: https://www.inc.com/jessica-stillman/productivity-asynchronous-remote-work.html
 src_suffix: '?utm_source=tldr.cdcl.ml'
 categories: [Industry, Management, Communication]
-tags: [opinionated, principles, hiring]
+tags: [opinionated, principles, hiring, async-remote]
 ---
 
 Maximising flexible/asynchronous work is key to remote productivity.

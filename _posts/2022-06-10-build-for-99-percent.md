@@ -2,7 +2,7 @@
 title: 'Build for "real" developers'
 src: https://future.com/software-development-building-for-99-developers
 categories: [Programming]
-tags: [principles]
+tags: [principles, agile]
 ---
 
 Putting the majority (but not all) of future maintainers & consumers first.

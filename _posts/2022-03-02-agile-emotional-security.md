@@ -2,7 +2,7 @@
 title: Agile needs good culture, not just good processes
 src: https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety
 categories: [Programming, Management, Communication]
-tags: [opinionated, principles]
+tags: [opinionated, principles, agile]
 ---
 
 Mental health, communication, openness, and a supportive culture are important.
