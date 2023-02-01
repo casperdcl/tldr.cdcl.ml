@@ -4,6 +4,9 @@
 - term: ADR
   definition: architecture decision record
   url: https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
+- term: AGI
+  definition: artificial general intelligence
+  url: https://en.wikipedia.org/wiki/Artificial_general_intelligence
 - term: AI
   definition: artificial intelligence
   url: https://en.wikipedia.org/wiki/Artificial_intelligence
