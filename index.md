@@ -1,8 +1,9 @@
 ---
 layout: home
 title: TL;DR
-heading: Too Long; Didn't Read (TL;DR)
+heading: TL;DR
 subheading: Interesting articles summarised
+banner: {image: ""}
 ---
 
 Have an article you'd like distilled? [Send me a request!]({{ site.mailto_request }})
