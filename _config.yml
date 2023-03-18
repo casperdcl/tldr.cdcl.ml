@@ -30,7 +30,6 @@ header_pages:
 - archives.md
 - categories.md
 - tags.md
-paginate: 10
 utterances:
   repo: casperdcl/tldr.cdcl.ml
   issue_term: title
