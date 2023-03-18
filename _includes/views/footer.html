@@ -3,7 +3,7 @@
 
   <div class="wrapper">
     <div class="site-footer-inner">
-        {%- assign currentYear = 'now' | date: "%Y" -%}
+        {%- assign currentYear = page.date | default: 'now' | date: "%Y" -%}
         {%- assign copyright = site.copyright
             | replace: '{currentYear}', currentYear
             | replace: '{author}', site.author
