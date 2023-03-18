@@ -29,7 +29,10 @@
         <span class="post-date"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>
         <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
         {%- if post.src -%}
-        <span class="post-source left-vsplit"><i class="fa fa-globe"></i> {{ post.src | truncate: 60 }}</span>
+        <span class="post-source left-vsplit"><i class="fa fa-globe"></i> <a href="{{ post.src | escape }}{{ post.src_suffix }}">{{ post.src }}</a></span>
+        {%- endif -%}
+        {%- if post.author != site.author -%}
+        <span class="left-vsplit"><i class="fa fa-edit"></i> {{ post.author }}</span>
         {%- endif -%}
       </div>
       <a class="post-excerpt" href="{{ post_url }}">
