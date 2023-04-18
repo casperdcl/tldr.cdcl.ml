@@ -61,12 +61,18 @@
 - term: KISS
   definition: keep it simple, stupid
   url: https://en.wikipedia.org/wiki/KISS_principle
+- term: LTS
+  definition: long term support
+  url: https://en.wikipedia.org/wiki/Long-term_support
 - term: ML
   definition: machine learning
   url: https://en.wikipedia.org/wiki/Machine_learning
 - term: MVP
   definition: minimum viable product
   url: https://en.wikipedia.org/wiki/Minimum_viable_product
+- term: NGO
+  definition: non-governmental organisation
+  url: https://en.wikipedia.org/wiki/Non-governmental_organization
 - term: OS
   definition: operating system
   url: https://en.wikipedia.org/wiki/Operating_system
