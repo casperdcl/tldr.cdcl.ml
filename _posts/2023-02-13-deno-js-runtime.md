@@ -15,7 +15,7 @@ New JavaScript runtime ([`deno`](https://github.com/denoland/deno)) tries to fig
   + `Makefile`-like entrypoints without relying on `make` nor system shell
 - some builtin safety, e.g. `deno run https://shady.website/main.ts < in.txt` can only read the explicitly specified input
 - no package registry nor manager, instead lockfiles use URLs (optionally can self-host registries)
-  + (personal opinion: the public will create a de-facto global registry)
+  + (personal opinion) the public will create a de-facto global registry
 - provides "stable" runtime APIs for unified cross-platform interface
 - stdlib is separate (like any dependency) from base `deno` binary
   + ongoing effort for more batteries-included stdlib

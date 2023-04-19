@@ -36,7 +36,7 @@ Principles to limit data misuse & automation from causing (unintentional) harm o
    - extra oversight for sensitive domains (e.g. criminal justice, employment, education, health)
    - public reports of above (including e.g. response times, outcomes, effectiveness)
 
-## Personal observations
+## personal opinions
 
 - Like all good laws, the above is lightweight and thus mostly watertight (i.e. "do not contribute to prejudice" rather than "must magically reduce prejudice").
 - There are some loopholes: one-off (non-continuous) checked surveillance data can be used to manually (non-algorithmically) discriminate without violating the above. Presumably this would be caught under pre-AI discriminatory laws.

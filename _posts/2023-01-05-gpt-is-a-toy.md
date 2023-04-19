@@ -19,7 +19,7 @@ Current {% glossary AI %} bots are "A" but not "I".
   + prompting ChatGPT for better response quality leads to it making excuses reminiscent of "a student [complaining] about their grade" or admitting it is wrong
 - "we are drowning in an ocean of content", "faking it with words" and current AI is going to make it worse
 
-### personal observations
+## personal opinions
 
 - humanity's biggest intellectual problem is the overwhelming deluge of poor content (quantity over quality)
   + ergo [this blog](/) summarises/distils into high-density (quality over quantity)

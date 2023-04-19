@@ -25,7 +25,7 @@ What & How: practical, pragmatic approach to documenting architecture.
    2. mapping of software building blocks to said hardware
 8. **Pervading Ethos**: design patterns, {% glossary UX %} choices, approach to security, "under-the-hood" concepts
 9. **Architecture Decisions**: rationale for not doing things differently, e.g. {% glossary ADR %} (worth its own {% glossary TL;DR %} :scroll:)
-   - :thinking: personal opinion: ADR seems an {% glossary XY problem %}. The motivation for ADR (i.e. not just *knowing* the decision -- reading source code -- but remembering *motivation* behind it) can be easily be addressed by inline code comments with URLs (e.g. linking to a GitHub comment) and/or commit messages. The only real value of ADR is collating such comments.
+   - :thinking: (personal opinion) ADR seems an {% glossary XY problem %}. The motivation for ADR (i.e. not just *knowing* the decision -- reading source code -- but remembering *motivation* behind it) can be easily be addressed by inline code comments with URLs (e.g. linking to a GitHub comment) and/or commit messages. The only real value of ADR is collating such comments.
 10. **Detailed Quality Goals**
     1. more detailed than (1.2) above, e.g. [ATAM "quality attribute utility tree"](https://en.wikipedia.org/wiki/Architecture_tradeoff_analysis_method)
     2. [usage scenarios](<https://en.wikipedia.org/wiki/Scenario_(computing)>), e.g. "processes user input within 1 second" (not to be confused with [use cases](https://en.wikipedia.org/wiki/Use_case))
