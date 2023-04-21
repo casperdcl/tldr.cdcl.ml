@@ -5,9 +5,9 @@ categories: [Industry, Programming]
 tags: [ai, law, opinionated, principles, product-research, tools-web]
 ---
 
-"Replacing your job" is not the biggest problem with current AI.
+"Replacing your job" is not the biggest problem with current {% glossary AI %}.
 
-- "prompt engineering" (carefully framing {% glossary AI %} inputs to maximise quality of outputs) might become a new "no code" human job
+- "prompt engineering" (carefully framing AI inputs to maximise quality of outputs) might become a new "no code" human job
   + "negative prompts" can result in "AI [cryptids](https://en.wikipedia.org/wiki/List_of_cryptids)" and help explore AI model [latent space](https://en.wikipedia.org/wiki/Latent_space) (personal opinion: related to {% glossary GIGO %})
 - more training data & compute resources (rather than developments in the underlying fundamental theory) is driving current AI popularity
   + current training needs an obscene amount of electricity
