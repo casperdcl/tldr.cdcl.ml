@@ -1,8 +1,8 @@
 ---
 title: CRA & PLA Cybersecurity Laws Need Rewording
 src: https://www.theregister.com/2023/04/12/python_management_eu
-categories: [Programming]
-tags: [opinionated, principles]
+categories: [Programming, Industry, Law]
+tags: [opinionated, principles, law, oss, security]
 ---
 
 Proposed EU laws to restrict irresponsible businesses might be abused to hurt FOSS volunteers due to poor wording.
@@ -19,4 +19,4 @@ Proposed EU laws to restrict irresponsible businesses might be abused to hurt FO
 
 - if you hire an engineer to build a safe and they use substandard components, you sue the engineer. The engineer in turn can sue the component makers *if* they had a contract. You don't sure the component makers directly
 - I'm sceptical that any new law could realistically override the "PROVIDED AS IS/NO WARRANTY" clause in FOSS licences
-  + [the lack of warranties for widely-used FOSS libraries is a problem which can & should be tackled separately]({% post_url 2023-04-18-os-is-bad %}) and more urgently than the mere commercial libraries which the CRA & PLA target
+  + the lack of warranties for widely-used FOSS libraries is a [problem]({% post_url 2022-07-24-linux-foss-warranty %}) which can & should be [tackled]({% post_url 2023-04-18-os-is-bad %}) separately (and more urgently than the mere commercial libraries which the CRA & PLA target)

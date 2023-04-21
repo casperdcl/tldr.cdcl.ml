@@ -2,7 +2,7 @@
 title: Policing FOSS
 src: https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source
 categories: [Programming, Industry, Law]
-tags: [opinionated, principles, oss, ai, law]
+tags: [opinionated, principles, oss, ai, law, security]
 ---
 
 Is it feasible to provide a warranty for {% glossary FOSS %} like the Linux kernel and Python?
