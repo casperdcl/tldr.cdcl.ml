@@ -20,10 +20,10 @@ Maintaining {% glossary FOSS %} projects without burning out; and contributing s
   + :twisted_rightwards_arrows: treat as *priority-* rather than *check-*list
     * judge what is (not) important
     * close based on likelihood of being addressed *soon* rather than *ever* (could reassess & reopen later)
-      * :thinking: (I think this discourages contributors & produces duplicate issues/fragmented discussion/lost problems. Instead I'd use [milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)/[project boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to collect "being addressed soon" issues, while [labelling](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) unresolvable/low-priority things appropriately)
+      * :thinking: (personal opinion) I think this discourages contributors & produces duplicate issues/fragmented discussion/lost problems. Instead I'd use [milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)/[project boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to collect "being addressed soon" issues, while [labelling](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) unresolvable/low-priority things appropriately
     * prioritising one issue means de-prioritising another
   + :scroll: stop accepting new issues altogether if too many to manage
-    * :scream: (I'd trim *prioritised* issues instead)
+    * :scream: (personal opinion) I'd trim *prioritised* issues instead
     * set goal of tackling 1 per day
   + :warning: when closing, mention willingness to (re)consider further suggestions
 - :loudspeaker: communicate everything clearly & constantly to contributors
