@@ -1,0 +1,9 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ruby
+{
+	"name": "Ruby",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
+	"portsAttributes": {"4000": {"label": "Webserver", "onAutoForward": "notify"}},
+	"postCreateCommand": "bundle install && bundle exec jekyll serve"
+}
