@@ -8,6 +8,7 @@ tags: [abstract, ai, principles]
 [Workflows](https://www.forbes.com/sites/servicenow/2020/03/11/three-steps-to-the-perfect-workflow/?sh=40a21be4618e) address tasks, processes address [business goals](https://thebusinessprofessor.com/en_US/management-leadership-organizational-behavior/goals-and-objectives-of-an-organization).
 
 ## Workflow
+
 - usually ordered sequence of steps to complete a task ("tactical")
 - :warning: each workflow may have multiple related processes (??)
 - each workflow depends on processes

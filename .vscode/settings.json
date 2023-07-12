@@ -1,0 +1,7 @@
+{
+    "markdownlint.config": {
+        "ul-style": false,
+        "blanks-around-lists": false,
+        "no-inline-html": false
+    }
+}
