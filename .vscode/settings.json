@@ -3,5 +3,6 @@
         "ul-style": false,
         "blanks-around-lists": false,
         "no-inline-html": false
-    }
+    },
+    "cSpell.language": "en-GB"
 }
