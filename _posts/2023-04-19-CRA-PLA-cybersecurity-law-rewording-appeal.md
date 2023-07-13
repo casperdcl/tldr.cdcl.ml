@@ -20,3 +20,4 @@ Proposed EU laws to restrict irresponsible businesses might be abused to hurt {%
 - if you hire an engineer to build a safe and they use substandard components, you sue the engineer. The engineer in turn can sue the component makers *if* they had a contract. You don't sure the component makers directly
 - I'm sceptical that any new law could realistically override the "PROVIDED AS IS/NO WARRANTY" clause in FOSS licences
   + the lack of warranties for widely-used FOSS libraries is a [problem]({% post_url 2022-07-24-linux-foss-warranty %}) which can & should be [tackled]({% post_url 2023-04-18-os-is-bad %}) separately (and more urgently than the mere commercial libraries which the CRA & PLA target)
+- more counterarguments: [OS is Illegal]({% post_url 2023-07-13-os-is-illegal %})

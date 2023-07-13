@@ -58,6 +58,9 @@
 - term: I/O
   definition: input/output
   url: https://en.wikipedia.org/wiki/Input/output
+- term: IP
+  definition: intellectual property
+  url: https://en.wikipedia.org/wiki/Intellectual_property
 - term: KISS
   definition: keep it simple, stupid
   url: https://en.wikipedia.org/wiki/KISS_principle
@@ -85,6 +88,9 @@
 - term: PR
   definition: pull request
   url: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- term: PSF
+  definition: Python Software Foundation
+  url: https://www.python.org/psf-landing
 - term: PyPI
   definition: The Python Package Index
   url: https://pypi.org
