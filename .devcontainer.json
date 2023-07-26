@@ -1,8 +1,8 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/ruby
+// format details: https://aka.ms/devcontainer.json
+// config options: https://github.com/devcontainers/templates/tree/main/src/ruby
 {
 	"name": "Ruby",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	// alternatively, use Dockerfile/docker-compose.yml: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
 	"customizations": {"vscode": {"extensions": [
 		"DavidAnson.vscode-markdownlint",
