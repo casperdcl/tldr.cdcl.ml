@@ -1,13 +1,23 @@
 // format details: https://aka.ms/devcontainer.json
 // config options: https://github.com/devcontainers/templates/tree/main/src/ruby
 {
-	"name": "Ruby",
-	// alternatively, use Dockerfile/docker-compose.yml: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
-	"customizations": {"vscode": {"extensions": [
+"name": "Ruby",
+// alternatively, use Dockerfile/docker-compose.yml: https://containers.dev/guide/dockerfile
+"image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
+"customizations": {"vscode": {
+	"extensions": [
 		"DavidAnson.vscode-markdownlint",
-		"streetsidesoftware.code-spell-checker"
-	]}},
-	"portsAttributes": {"4000": {"label": "Webserver", "onAutoForward": "notify"}},
-	"postCreateCommand": "bundle install && bundle exec jekyll serve"
+		"streetsidesoftware.code-spell-checker"],
+	"settings": {
+		"editor.tabCompletion": "on",
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"cSpell.language": "en-GB",
+		"markdownlint.config": {
+			"ul-style": false,
+			"blanks-around-lists": false,
+			"no-inline-html": false}}}},
+"portsAttributes": {"4000": {"label": "Webserver", "onAutoForward": "notify"}},
+"postCreateCommand": "bundle install && bundle exec jekyll serve"
 }
