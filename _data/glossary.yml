@@ -97,6 +97,9 @@
 - term: RFC
   definition: request for comment
   url: https://en.wikipedia.org/wiki/Request_for_Comments
+- term: SME
+  definition: small & medium-sized enterprises
+  url: https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises
 - term: TL;DR
   definition: too long; didn't read
   url: https://en.wikipedia.org/wiki/TL;DR
