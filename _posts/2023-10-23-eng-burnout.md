@@ -10,7 +10,7 @@ Things managers should do.
 1. :handshake: trust engineers
    + don't question every implementation detail
    + allow engineers to drive some requirements/scope (assuming this leads to promotion)
-2. :zap: avoid heavyweight (non-[agile](% post_url 2022-12-19-aggressive-agile %)) processes
+2. :zap: avoid heavyweight (non-[agile]({% post_url 2022-12-19-aggressive-agile %})) processes
    + process which work for BigTech will fail at {% glossary SME, display: SMEs %}/startups
 3. :shipit: ship fast & often
    + good: imperfect releases with feedback loops
