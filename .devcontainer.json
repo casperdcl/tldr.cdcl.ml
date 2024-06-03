@@ -19,5 +19,6 @@
 			"blanks-around-lists": false,
 			"no-inline-html": false}}}},
 "portsAttributes": {"4000": {"label": "Webserver", "onAutoForward": "notify"}},
-"postCreateCommand": "bundle install && bundle exec jekyll serve"
+"postCreateCommand": "bundle install",
+"postStartCommand": "bundle exec jekyll serve"
 }
