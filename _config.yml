@@ -19,7 +19,6 @@ defaults:
     src_suffix: '/?utm_source=tldr.cdcl.ml'
 baseurl: ""
 url: https://tldr.cdcl.ml
-google_analytics: G-MERR30FCLL
 enableDNT: "false"
 sitemap: true
 lang: en-GB
