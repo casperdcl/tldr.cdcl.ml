@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
@@ -21,7 +21,7 @@ jobs:
     - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" # defaults output to '/_site'
       env:
         JEKYLL_ENV: production
-    - uses: actions/upload-pages-artifact@v3 # automatically uploads an artifact from the '/_site' directory
+    - uses: actions/upload-pages-artifact@v4 # automatically uploads an artifact from the '/_site' directory
   deploy:
     environment:
       name: github-pages
