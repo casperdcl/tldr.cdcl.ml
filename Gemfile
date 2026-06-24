@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-spaceship'
+  gem 'jekyll-target-blank'
   gem 'jekyll-webmention_io'
   gem 'jemoji'
 end

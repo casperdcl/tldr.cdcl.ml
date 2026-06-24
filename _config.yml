@@ -1,7 +1,7 @@
 remote_theme: jeffreytse/jekyll-theme-yat
 favicon: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📜</text></svg>'
 title: Too Long; Didn't Read
-author: Casper da Costa-Luis
+author: Casper da&nbsp;Costa-Luis
 copyright: '(c) <a href="https://cdcl.ml">{author}</a> {currentYear}'
 mailto_request: 'mailto:tldr@cdcl.ml?subject=request'
 permalink: pretty
@@ -14,7 +14,7 @@ defaults:
     path: "_posts/*"
   values:
     layout: post
-    author: Casper da Costa-Luis
+    author: Casper da&nbsp;Costa-Luis
     subtitle: TL;DR
     src_suffix: '/?utm_source=tldr.cdcl.ml'
 baseurl: ""
@@ -37,6 +37,7 @@ utterances:
 webmentions:
   username: cdcl.ml
   js: {destination: assets/js}
+target-blank: {noreferrer: false}
 plugins:
 - jekyll-feed
 - jekyll-glossary_tooltip
@@ -45,8 +46,6 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-spaceship
+- jekyll-target-blank
 - jekyll-webmention_io
 - jemoji
-exclude:
-- Gemfile
-- Gemfile.lock
