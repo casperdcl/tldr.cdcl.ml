@@ -1,6 +1,6 @@
 source "https://rubygems.org"
-
-gem "jekyll"
+gem 'jekyll'
+gem 'mini_racer' # a js runtime -> execjs -> jekyll-webmention_io
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-glossary_tooltip'
@@ -9,5 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-spaceship'
+  gem 'jekyll-webmention_io'
   gem 'jemoji'
 end

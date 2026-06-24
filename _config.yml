@@ -34,6 +34,9 @@ utterances:
   issue_term: title
   label: discussion
   theme: preferred-color-scheme
+webmentions:
+  username: cdcl.ml
+  js: {destination: assets/js}
 plugins:
 - jekyll-feed
 - jekyll-glossary_tooltip
@@ -42,6 +45,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-spaceship
+- jekyll-webmention_io
 - jemoji
 exclude:
 - Gemfile

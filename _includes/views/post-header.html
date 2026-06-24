@@ -1,4 +1,4 @@
-<header class="post-header">
+<header class="post-header h-entry">
   <h1 class="post-title p-name" itemprop="name headline">{{ heading | default: page.title | escape }}</h1>
   <h2 class="post-subtitle">{{ subheading | default: page.subtitle | escape }}</h2>
 
@@ -14,10 +14,10 @@
     {% assign reading_time = return %}
     <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
     {%- if page.src -%}
-    <span class="post-source left-vsplit"><i class="fa fa-globe"></i> <a href="{{ page.src | escape }}{{ page.src_suffix }}">{{ page.src }}</a></span>
+    <span class="post-source left-vsplit"><i class="fa fa-globe"></i> <a href="{{ page.src | escape }}{{ page.src_suffix }}" class="u-in-reply-to">{{ page.src }}</a></span>
     {%- endif -%}
     {%- if page.author != site.author -%}
-    <span class="left-vsplit"><i class="fa fa-edit"></i> {{ page.author }}</span>
+    <span class="left-vsplit u-author h-card"><i class="fa fa-edit"></i> {{ page.author }}</span>
     {%- endif -%}
   </p>
 
